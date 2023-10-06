@@ -9,7 +9,7 @@ import re
 from setuptools import setup
 
 
-PKG_NAME = "cornerstone"
+PKG_NAME = "echoprompt"
 
 # Extract module docstring and version from package root __init__.py
 with codecs.open("{}/__init__.py".format(PKG_NAME), encoding="utf-8") as fd:

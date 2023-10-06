@@ -12,7 +12,7 @@ def stdout_setup(option):
 
 
 def test_setup_name():
-    assert stdout_setup("name") == "cornerstone"
+    assert stdout_setup("name") == "echoprompt"
 
 
 def test_setup_version():
