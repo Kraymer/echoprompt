@@ -1,5 +1,7 @@
+*.egg-info
 .direnv
 .envrc
+.python-version
 .venv3
 __pycache__
-
+dist/
