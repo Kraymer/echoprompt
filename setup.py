@@ -44,7 +44,7 @@ setup(
     platforms="ALL",
     packages=[PKG_NAME],
     install_requires=read_rsrc("requirements.txt").split("\n"),
-    python_requires=">=3.6",
+    python_requires=">=3.9",
     extras_require={
         "test": [
             "coverage>5",
