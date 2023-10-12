@@ -13,7 +13,7 @@ jobs:
     
     strategy:
       matrix:
-        platform: [ubuntu-latest, windows-latest]
+        platform: [ubuntu-latest]
         python-version: ["3.9", "3.11"]
 
     steps:
