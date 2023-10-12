@@ -3,7 +3,7 @@ Terminal prompt endowed with persistent memory that echoes last choices
 made and provide them as default.
 """
 
-__version__ = "0.0.1-beta"
+__version__ = "0.1.0"
 
 from InquirerPy import inquirer
 from trapdoor import Trapdoor
