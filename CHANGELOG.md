@@ -2,6 +2,17 @@
 
 
 
+## v0.1.0 (2023-10-12)
+
+### Feature
+
+* feat: add class EchoPrompt ([`766d5cd`](https://github.com/Kraymer/echoprompt/commit/766d5cd18469427ccb204b7baace1920a40ffa2e))
+
+### Unknown
+
+* Merge branch &#39;main&#39; of github.com:Kraymer/echoprompt ([`53aebb7`](https://github.com/Kraymer/echoprompt/commit/53aebb7aa4639e52f9a3c608028f8a3e226177fc))
+
+
 ## v0.0.1 (2023-10-12)
 
 ### Chore
