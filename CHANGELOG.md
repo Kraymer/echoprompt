@@ -2,6 +2,27 @@
 
 
 
+## v0.2.0 (2023-10-18)
+
+### Chore
+
+* chore: increase version number ([`59f782b`](https://github.com/Kraymer/echoprompt/commit/59f782bacb8a63552e6d3b483971c7aa66ff4688))
+
+### Feature
+
+* feat: pin InquirerPy dep ([`3627356`](https://github.com/Kraymer/echoprompt/commit/36273561be094d017e4326c0d0c07554643a7e09))
+
+* feat: lower python minimum version from 3.9 to 3.7 ([`cf503b5`](https://github.com/Kraymer/echoprompt/commit/cf503b5a2eda6b7d4940a2ffe15e7602ec765963))
+
+### Fix
+
+* fix(codecov.yml): set python-version to 3.7 ([`7163307`](https://github.com/Kraymer/echoprompt/commit/716330712235b831cfe05c90bc5fa45286ba14ab))
+
+### Refactor
+
+* refactor(requirements.txt): pin Trapdoor version ([`847e4cd`](https://github.com/Kraymer/echoprompt/commit/847e4cd6db747074623b55d1663e5e343c8c8737))
+
+
 ## v0.1.0 (2023-10-12)
 
 ### Feature
